@@ -1,0 +1,16 @@
+{
+  "name": "@rjbzd/self-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zy\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/yan869/yan869.git"
+  },
+  "description": ""
+}
